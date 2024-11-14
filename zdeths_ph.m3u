@@ -69,7 +69,7 @@ http://bisdaktv.store/live/discoveryenglish.m3u8
 https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="NickToons.ph",NickToons
 https://ln.run/nicktoons
-#EXTINF:-1 tvg-id="DisneyChannel.ph",Disney Channel HD
+#EXTINF:-1 tvg-id="DisneyChannel.ph",Disney Channel US HD
 http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="NBA.ph",NBA
 https://tx2.nexgen.bz:443/NBA/index.m3u8
@@ -89,9 +89,11 @@ https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us",Fox News Channel
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar",Disney Channel
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar",Disney Channel Latin America
 http://168.181.122.234:8000/play/a038/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJuniorLatinAmerica.ar",Disney Junior Channel
+#EXTINF:-1 tvg-id="DisneyJuniorLatinAmerica.ar",Disney Junior Channel Latin America
 http://168.181.122.234:8000/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="TeleRadyo.ph",TeleRadyo
+https://ythls.armelin.one/channel/UCs_VNu-FQ0WcJnD4QkmIL5w.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.ca",Disney Junior Canada
 https://ythls.armelin.one/channel/UCs_VNu-FQ0WcJnD4QkmIL5w.m3u8
