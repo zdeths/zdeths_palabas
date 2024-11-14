@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="963EasyRock.ph",96.3 Easy Rock
+https://ythls.armelin.one/channel/UCZTlGPEnQ66TFG0m6Wa3KFQ.m3u8
+#EXTINF:-1 tvg-id="A2Z.ph",A2Z
+https://wag.ika.lat/stream/944313137​
+#EXTINF:-1 tvg-id="ANC.ph",A2Z
+https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 tvg-id="AXN.ph",AXN
+https://wag.ika.lat/stream/2084767267
+#EXTINF:-1 tvg-id="CCTN47.ph",CCTN47
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+#EXTINF:-1 tvg-id="CineMo.ph",Cine Mo
+https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CinemaOne.ph",Cinema One
+https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-id="DepEdTV.ph",DepEd TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlist.m3u8
+#EXTINF:-1 tvg-id="DreamstarTV.ph",Dreamstar TV
+https://ssh101-fl.bozztv.com/ssh101/dreamstartvnew/index.m3u8
+#EXTINF:-1 tvg-id="DZBBDT1.ph",DZBBD
+https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="DZRHNewsTV.ph",DZRH News TV
+https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
+#EXTINF:-1 tvg-id="GMATV.ph",GMA TV
+https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
+#EXTINF:-1 tvg-id="GreatCommissionTV.ph",Great Commission TV
+http://45.32.115.103/live/livestream/index.m3u8
+#EXTINF:-1 tvg-id="GTV.ph",G TV
+https://wag.ika.lat/stream/872206966
+#EXTINF:-1 tvg-id="INCTV.ph",INC TV
+https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
+#EXTINF:-1 tvg-id="LifeTVAsia.ph",Life TV Asia
+https://ythls.armelin.one/channel/UCisr6Z2C8R2QF-Qh6NOH9cg.m3u8
+#EXTINF:-1 tvg-id="MyxPhilippines.ph",Myx Philippines
+https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-id="OrasngHimala.ph",Oras ng Himala
+https://ythls.armelin.one/channel/UCG_nkfwsIhO1OiRQUGfdLyw.m3u8
+#EXTINF:-1 tvg-id="PTV4.ph",PTV4
+https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
+#EXTINF:-1 tvg-id="RadyoBandidoTV.ph",Radyo Bandido TV
+https://ythls.armelin.one/channel/UC1f5yN0Hdibzm3JqqUswKvA.m3u8
+#EXTINF:-1 tvg-id="SMNI.ph",SMNI
+https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+#EXTINF:-1 tvg-id="SMNINewsChannel.ph",SMNI News Channel
+https://ythls.armelin.one/channel/UCNaQMcnWvx95j7OG3217IMg.m3u8
+#EXTINF:-1 tvg-id="TV5.ph",TV5
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
+#EXTINF:-1 tvg-id="TVMaria.ph",TV Maria
+https://ythls.armelin.one/channel/UCDXPB23ws_T0rVvrXVCYqyA.m3u8
+#EXTINF:-1 tvg-id="UNTV.ph",UNTV
+https://ythls.armelin.one/channel/UC3XaG-7UVi2vD8ZZEMNnnpw.m3u8
+#EXTINF:-1 tvg-id="Veritas846.ph",Veritas 846
+https://ythls.armelin.one/channel/UCAzUdEY3ZqtcC_s4ZdDKm7Q.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.ph",Cartoon Network
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.ph",Disney Junior
+http://hardcoremedia.xyz/live/6FyrkGbRP/D4Q4pk3k8u/137679.m3u8
+#EXTINF:-1 tvg-id="ANC.ph",ANC
+https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 tvg-id="Boomerang.ph",Boomerang HD
+http://hardcoremedia.xyz/live/6FyrkGbRP/D4Q4pk3k8u/137674.m3u8
+#EXTINF:-1 tvg-id="MovieMax.ph",Movie Max
+http://hardcoremedia.xyz/live/6FyrkGbRP/D4Q4pk3k8u/130056.m3u8
+#EXTINF:-1 tvg-id="CNN.ph",CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.ph",Discovery Channel HD
+http://bisdaktv.store/live/discoveryenglish.m3u8
+#EXTINF:-1 tvg-id="TFC.ph",TFC Channel
+https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-id="NickToons.ph",NickToons
+https://ln.run/nicktoons
+#EXTINF:-1 tvg-id="DisneyChannel.ph",Disney Channel HD
+http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="NBA.ph",NBA
+https://tx2.nexgen.bz:443/NBA/index.m3u8
+#EXTINF:-1 tvg-id="BabyTV.ph",Baby TV
+https://tx1.nexgen.bz:443/BABYTV/index.m3u8
+#EXTINF:-1 tvg-id="AmericanIdol.ph",American Idol
+https://d2h3esqi6ab3e7.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="NewsOne.ph",News One
+http://tv14s.xyz:8080/live/X5xRz0/944877/101774.m3u8
+#EXTINF:-1 tvg-id="WWE.ph",WWE
+https://ln.run/WNet
+#EXTINF:-1 tvg-id="GMATV.ph",GMA
+https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
+#EXTINF:-1 tvg-id="AXN.ph",AXN
+https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 tvg-id="CLTV36.ph",CLTV36
+https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 tvg-id="HBOAsiaHD.sg",HBO Asia HD
+https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us",Fox News Channel
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar",Disney Channel
+http://168.181.122.234:8000/play/a038/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJuniorLatinAmerica.ar",Disney Junior Channel
+http://168.181.122.234:8000/play/a038/index.m3u8
