@@ -85,10 +85,6 @@ https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Channel_logo.png" tvg-id="FoxNewsChannel.us",Fox News Channel
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" tvg-id="DisneyChannelLatinAmerica.ar",Disney Channel Latin America
-http://168.181.122.234:8000/play/a038/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Disney_Junior_2019_logo_%282%29.png" tvg-id="DisneyJuniorLatinAmerica.ar",Disney Junior Channel Latin America
-http://168.181.122.234:8000/play/a038/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="TeleRadyo.ph",TeleRadyo
 https://ythls.armelin.one/channel/UCs_VNu-FQ0WcJnD4QkmIL5w.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Disney_Junior_2019_logo_%282%29.png" tvg-id="DisneyJunior.ca",Disney Junior Canada
