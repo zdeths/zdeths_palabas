@@ -81,15 +81,15 @@ http://tv14s.xyz:8080/live/X5xRz0/944877/101774.m3u8
 https://ln.run/WNet
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CLTV_logo.png" tvg-id="CLTV36.ph",CLTV36
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/HBO_-_Home_Box_Office_logo.png" tvg-id="HBOAsiaHD.sg",HBO Asia HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Hbo-tp.png" tvg-id="HBOAsiaHD.sg",HBO Asia HD
 https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Fox_news_channel_logo.png" tvg-id="FoxNewsChannel.us",Fox News Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Channel_logo.png" tvg-id="FoxNewsChannel.us",Fox News Channel
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" tvg-id="DisneyChannelLatinAmerica.ar",Disney Channel Latin America
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" tvg-id="DisneyChannelLatinAmerica.ar",Disney Channel Latin America
 http://168.181.122.234:8000/play/a038/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Disney_Junior_2019_logo.png" tvg-id="DisneyJuniorLatinAmerica.ar",Disney Junior Channel Latin America
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Disney_Junior_2019_logo_%282%29.png" tvg-id="DisneyJuniorLatinAmerica.ar",Disney Junior Channel Latin America
 http://168.181.122.234:8000/play/a038/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="TeleRadyo.ph",TeleRadyo
 https://ythls.armelin.one/channel/UCs_VNu-FQ0WcJnD4QkmIL5w.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Disney_Junior_2019_logo.png" tvg-id="DisneyJunior.ca",Disney Junior Canada
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Disney_Junior_2019_logo_%282%29.png" tvg-id="DisneyJunior.ca",Disney Junior Canada
 https://ythls.armelin.one/channel/UCs_VNu-FQ0WcJnD4QkmIL5w.m3u8
