@@ -113,12 +113,12 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iSVnzR1.png" tvg-id="24HourFreeMovies.us",24 Hour Free Movies
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8
-#EXTINF:-1 tvg-logo="https://logospng.org/wp-content/uploads/rakuten.png" tvg-id="RakutenTVActionMovies.uk",Rakuten TV Action Movies
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/2018_Rakuten_logo.png" tvg-id="RakutenTVActionMovies.uk",Rakuten TV Action Movies
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logospng.org/wp-content/uploads/rakuten.png" tvg-id="RakutenTVComedyMovies.uk",Rakuten TV Comedy Movies
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/2018_Rakuten_logo.png" tvg-id="RakutenTVComedyMovies.uk",Rakuten TV Comedy Movies
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logospng.org/wp-content/uploads/rakuten.png" tvg-id="RakutenTVFamilyMovies.uk",Rakuten TV Family Movies
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/2018_Rakuten_logo.png" tvg-id="RakutenTVFamilyMovies.uk",Rakuten TV Family Movies
 https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logospng.org/wp-content/uploads/rakuten.png" tvg-id="RakutenTVTopMovies.uk",Rakuten TV Top Movies
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/2018_Rakuten_logo.png" tvg-id="RakutenTVTopMovies.uk",Rakuten TV Top Movies
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
 
