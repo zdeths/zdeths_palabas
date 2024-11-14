@@ -37,7 +37,7 @@ https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 https://ythls.armelin.one/channel/UCG_nkfwsIhO1OiRQUGfdLyw.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/PTV4-LOGO-1995.png" tvg-id="PTV4.ph",PTV4
 https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
-#EXTINF:-1 tvg-logo="https://russel.fandom.com/wiki/Radyo_Bandido_TV_Logos_(2020-2022)?file=Radyo_Bandido_TV_Logo_2020.png" tvg-id="RadyoBandidoTV.ph",Radyo Bandido TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="RadyoBandidoTV.ph",Radyo Bandido TV
 https://ythls.armelin.one/channel/UC1f5yN0Hdibzm3JqqUswKvA.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/SMNI_News_Channel.webp" tvg-id="SMNI.ph",SMNI
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
