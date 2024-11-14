@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Easy_Rock_logo_2021.svg" tvg-id="963EasyRock.ph",96.3 Easy Rock
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="963EasyRock.ph",96.3 Easy Rock
 https://ythls.armelin.one/channel/UCZTlGPEnQ66TFG0m6Wa3KFQ.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" tvg-id="A2Z.ph",A2Z
 https://wag.ika.lat/stream/944313137​
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/ABS-CBN_News_Channel_%282015%29.svg" tvg-id="ANC.ph",ANC
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/ANC?file=The_ABS-CBN_News_Channel_Logo.PNG" tvg-id="ANC.ph",ANC
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Axn.png" tvg-id="AXN.ph",AXN
 https://wag.ika.lat/stream/2084767267
-#EXTINF:-1 "https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="CCTN47.ph",CCTN47
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="CCTN47.ph",CCTN47
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Cinemologo.png" tvg-id="CineMo.ph",Cine Mo
 https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
@@ -15,7 +15,7 @@ https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DepEd_TV.png" tvg-id="DepEdTV.ph",DepEd TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlist.m3u8
-#EXTINF:-1 "https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="DreamstarTV.ph",Dreamstar TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="DreamstarTV.ph",Dreamstar TV
 https://ssh101-fl.bozztv.com/ssh101/dreamstartvnew/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Super_Radyo_DZBB_594_logo.png" tvg-id="DZBBDT1.ph",DZBB
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
@@ -23,13 +23,13 @@ https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/GMA_Network_logo.png" tvg-id="GMATV.ph",GMA TV
 https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
-#EXTINF:-1 "https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="GreatCommissionTV.ph",Great Commission TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="GreatCommissionTV.ph",Great Commission TV
 http://45.32.115.103/live/livestream/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/GMA_Network_logo.png" tvg-id="GTV.ph",G TV
 https://wag.ika.lat/stream/872206966
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/INC_TV_New_Logo.png" tvg-id="INCTV.ph",INC TV
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
-#EXTINF:-1 "https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="LifeTVAsia.ph",Life TV Asia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="LifeTVAsia.ph",Life TV Asia
 https://ythls.armelin.one/channel/UCisr6Z2C8R2QF-Qh6NOH9cg.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/MyxPH.png" tvg-id="MyxPhilippines.ph",Myx Philippines
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
