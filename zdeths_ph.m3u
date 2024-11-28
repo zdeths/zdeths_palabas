@@ -90,7 +90,7 @@ http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NicktoonsSplat-2024.png" tvg-id="NickToons.ph",NickToons - 1
 https://ln.run/nicktoons
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NicktoonsSplat-2024.png" tvg-id="NickToons.ph",NickToons - 2
-https%3a//fl2.moveonjoy.com/NICKTOONS/index.m3u8
+https://fl2.moveonjoy.com/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" tvg-id="DisneyChannel.ph",Disney Channel US HD
 http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/NBA-Logo.png" tvg-id="NBA.ph",NBA
@@ -121,7 +121,7 @@ https%3a//fl2.moveonjoy.com/HBO_2/index.m3u8
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" tvg-id="HBO2.sg",HBO Family
 http://212.102.60.231/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Pop_hbo.png" tvg-id="HBOPop.au",HBO PPOP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Pop_hbo.png" tvg-id="HBOPop.au",HBO POP
 http://190.14.249.39:8000/play/a01u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Xtreme.png" tvg-id="HBOxtreme.COM",HBO EXTREME
 http://181.204.79.182:8202/play/a02w
