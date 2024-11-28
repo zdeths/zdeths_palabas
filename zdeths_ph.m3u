@@ -53,6 +53,8 @@ https://ythls.armelin.one/channel/UC3XaG-7UVi2vD8ZZEMNnnpw.m3u8
 https://ythls.armelin.one/channel/UCAzUdEY3ZqtcC_s4ZdDKm7Q.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Cartoon_Network_1992-2004.png" tvg-id="CartoonNetwork.ph",Cartoon Network
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Disney_XD_HD_2019.png" tvg-id="DisneyXD.ph",Disney XD
+https://fl2.moveonjoy.com/DISNEY_XD/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Disney_Junior_2019_logo.png" tvg-id="DisneyJunior.ph",Disney Junior
 http://hardcoremedia.xyz/live/6FyrkGbRP/D4Q4pk3k8u/137679.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/OnAir_Logo_Boomerang_HD_2015.png" tvg-id="Boomerang.ph",Boomerang HD
