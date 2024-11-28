@@ -79,6 +79,12 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 http://bisdaktv.store/live/discoveryenglish.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/The_Filipino_Channel_%28TFC%29_logo.png" tvg-id="TFC.ph",TFC Channel
 https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Nickelodeon-2023.png" tvg-id="Nickelodeon.com",Nickelodeon
+http://143.244.60.30/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Nick_Jr._logo_2023.png" tvg-id="Nickelodeon.com",Nick Jr
+https://fl2.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/NickMusic_%282016-.n.v.%29.png" tvg-id="Nickelodeon.com",Nick Music
+http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NicktoonsSplat-2024.png" tvg-id="NickToons.ph",NickToons
 https://ln.run/nicktoons
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" tvg-id="DisneyChannel.ph",Disney Channel US HD
