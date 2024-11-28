@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" tvg-id="Arirang.com",Arirang
+https://list.iptvcat.com/my_list/s/f5a56911fcc6bee4413e93d94472ea84.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="963EasyRock.ph",96.3 Easy Rock
 https://ythls.armelin.one/channel/UCZTlGPEnQ66TFG0m6Wa3KFQ.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" tvg-id="A2Z.ph",A2Z
@@ -51,17 +53,23 @@ https://ythls.armelin.one/channel/UCDXPB23ws_T0rVvrXVCYqyA.m3u8
 https://ythls.armelin.one/channel/UC3XaG-7UVi2vD8ZZEMNnnpw.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="Veritas846.ph",Veritas 846
 https://ythls.armelin.one/channel/UCAzUdEY3ZqtcC_s4ZdDKm7Q.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/CNBC_TV18_logo.png" tvg-id="CNBC.com",CNBC
+https://list.iptvcat.com/my_list/s/0369fbfc6944223a0d725444fdbab561.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Cartoon_Network_1992-2004.png" tvg-id="CartoonNetwork.ph",Cartoon Network
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Disney_XD_HD_2019.png" tvg-id="DisneyXD.ph",Disney XD
 https://fl2.moveonjoy.com/DISNEY_XD/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Disney_Junior_2019_logo.png" tvg-id="DisneyJunior.ph",Disney Junior
 http://hardcoremedia.xyz/live/6FyrkGbRP/D4Q4pk3k8u/137679.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" tvg-id="Boomerang.ph",Bloomberg TV US
+https://list.iptvcat.com/my_list/s/0c998bb6328642eec581b1b40f746e3f.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/OnAir_Logo_Boomerang_HD_2015.png" tvg-id="Boomerang.ph",Boomerang HD
 http://hardcoremedia.xyz/live/6FyrkGbRP/D4Q4pk3k8u/137674.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="MovieMax.ph",Movie Max
 http://hardcoremedia.xyz/live/6FyrkGbRP/D4Q4pk3k8u/130056.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/RPN9-CNN_Philippines_New_logo.png" tvg-id="CNN.ph",CNN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/CNN_11059492.png" tvg-id="CNN.ph",CNN
+https://list.iptvcat.com/my_list/s/df2e2ba5f2a831991ee91470a06158ef.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/RPN9-CNN_Philippines_New_logo.png" tvg-id="CNN.ph",CNN Philippines
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Discovery_Channel.png" tvg-id="DiscoveryChannel.ph",Discovery Channel HD
 http://bisdaktv.store/live/discoveryenglish.m3u8
