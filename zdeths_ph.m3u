@@ -83,6 +83,8 @@ https://ln.run/WNet
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Hbo-tp.png" tvg-id="HBOAsiaHD.sg",HBO Asia HD
 https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" tvg-id="HBO2.sg",HBO 2
+https://fl2.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Pop_hbo.png" tvg-id="HBOPop.au",HBO PPOP
 http://190.14.249.39:8000/play/a01u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Xtreme.png" tvg-id="HBOxtreme.COM",HBO EXTREME
