@@ -39,6 +39,8 @@ http://115.146.176.131:80/TimRizal/TimRizal/14.ts
 http://45.32.115.103/live/livestream/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/GMA_Network_logo.png" tvg-id="GTV.ph",G TV
 https://wag.ika.lat/stream/872206966
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/6c374acf0ca2b976bbaa32f5483449bd.png" tvg-id="HitsMovies.ph",HITS Movies
+http://115.146.176.131:80/TimRizal/TimRizal/36.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/INC_TV_New_Logo.png" tvg-id="INCTV.ph",INC TV
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="LifeTVAsia.ph",Life TV Asia
