@@ -3,11 +3,13 @@
 http://115.146.176.131:80/TimRizal/TimRizal/16.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Aljazeera_mubasher.png" tvg-id="Aljazeera.com",ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/5a4c8aa22146a7691717bd77782d5a36.jpg" tvg-id="Animax.com",Animax
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" tvg-id="Animax.com",Animax
 http://115.146.176.131:80/TimRizal/TimRizal/59.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" tvg-id="Arirang.com",Arirang
 https://list.iptvcat.com/my_list/s/f5a56911fcc6bee4413e93d94472ea84.m3u8
-#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/7322e4e74e109cf689b50f143663abaa.jpg" tvg-id="AXN.com",AXN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Axn.png" tvg-id="AXN.ph",AXN_Primary
+https://wag.ika.lat/stream/2084767267
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/AXN.png" tvg-id="AXN.com",AXN_Secondary
 http://115.146.176.131:80/TimRizal/TimRizal/49.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="963EasyRock.ph",96.3 Easy Rock
 https://ythls.armelin.one/channel/UCZTlGPEnQ66TFG0m6Wa3KFQ.m3u8
@@ -15,29 +17,27 @@ https://ythls.armelin.one/channel/UCZTlGPEnQ66TFG0m6Wa3KFQ.m3u8
 https://wag.ika.lat/stream/944313137​
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ABS-CBN_News_Channel_%282015%29.svg/1920px-ABS-CBN_News_Channel_%282015%29.svg.png" tvg-id="ANC.ph",ANC
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Axn.png" tvg-id="AXN.ph",AXN
-https://wag.ika.lat/stream/2084767267
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="CCTN47.ph",CCTN47
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Cinemologo.png" tvg-id="CineMo.ph",Cine Mo
 https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/ae139f8c21f0470a268c8b7abaec791b.png" tvg-id="Cinemax.ph",Cinemax
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/ae139f8c21f0470a268c8b7abaec791b.png" tvg-id="Cinemax.ph",Cinemax_Primary
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/ae139f8c21f0470a268c8b7abaec791b.png" tvg-id="Cinemax.ph",Cinemax_Secondary
 http://115.146.176.131:80/TimRizal/TimRizal/41.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinema_One_logo.png" tvg-id="CinemaOne.ph",Cinema One
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/CINEMAX_logo.png" tvg-id="CinemaOne.ph",Cinemax
-http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DepEd_TV.png" tvg-id="DepEdTV.ph",DepEd TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="DreamstarTV.ph",Dreamstar TV
 https://ssh101-fl.bozztv.com/ssh101/dreamstartvnew/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Super_Radyo_DZBB_594_logo.png" tvg-id="DZBBDT1.ph",DZBB
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Super_Radyo_DZBB_594_logo.png" tvg-id="DZBB.ph",DZBB
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/DZRH_TV.png" tvg-id="DZRHNewsTV.ph",DZRH News TV
 https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Espn_2.png" tvg-id="DZRHNewsTV.ph",ESPN 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Espn_2.png" tvg-id="ESPN.ph",ESPN 2
 https://fl2.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/74dcf46b6d2f5c5738b3409b3505be6e.jpg" tvg-id="FightSports.ph",Fight Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/FightSportsLogo2x.png" tvg-id="FightSports.ph",Fight Sports
 http://115.146.176.131:80/TimRizal/TimRizal/65.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/GMA_Network_logo.png" tvg-id="GMATV.ph",GMA TV_Primary
 https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
@@ -65,7 +65,7 @@ https://ythls.armelin.one/channel/UCisr6Z2C8R2QF-Qh6NOH9cg.m3u8
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="OrasngHimala.ph",Oras ng Himala
 https://ythls.armelin.one/channel/UCG_nkfwsIhO1OiRQUGfdLyw.m3u8
-#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/8e9e132a0adfe658b3be87f166ff327e.jpg" tvg-id="PBARush.ph",PBA Rush
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="PBARush.ph",PBA Rush
 http://115.146.176.131:80/TimRizal/TimRizal/69.ts
 #EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/91ead07b36d35d691c26714fecc1923a.png" tvg-id="PBO.ph",PBO
 http://115.146.176.131:80/TimRizal/TimRizal/32.ts
@@ -104,7 +104,7 @@ http://hardcoremedia.xyz/live/6FyrkGbRP/D4Q4pk3k8u/130056.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/CNN_11059492.png" tvg-id="CNN.ph",CNN
 https://list.iptvcat.com/my_list/s/df2e2ba5f2a831991ee91470a06158ef.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/RPN9-CNN_Philippines_New_logo.png" tvg-id="CNN.ph",CNN Philippines
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+http://115.146.176.131:80/TimRizal/TimRizal/33.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Discovery_Channel.png" tvg-id="DiscoveryChannel.ph",Discovery Channel
 http://115.146.176.131:80/TimRizal/TimRizal/27.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Discovery_Channel.png" tvg-id="DiscoveryChannel.ph",Discovery Channel HD
@@ -173,13 +173,15 @@ https://ythls.armelin.one/channel/UCs_VNu-FQ0WcJnD4QkmIL5w.m3u8
 https://ythls.armelin.one/channel/UCs_VNu-FQ0WcJnD4QkmIL5w.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c4XvwO2.png" tvg-id="tvNMoviesAsia.hk",tvnMovie Asia
 http://210.210.155.37/dr9445/h/h21/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="OnePH.com",One PH
+http://115.146.176.131:80/TimRizal/TimRizal/81.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" tvg-id="ParamountNetworkEast.us",Paramount Network
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" tvg-id="ParamountNetworkEast.us",Star Channel US
 https://streamer1.nexgen.bz/STAR/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Redbox_logo16.png" tvg-id="redbox.us",Red Box
 https://spotlight-redbox.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg" tvg-id="redbox.us",Paramount Picks
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Paramount_Pictures_Corporation_logo.png" tvg-id="paramount.us",Paramount Picks
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=86df5336-6268-4928-9b7d-3af618ca807b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sj5h9bl.png" tvg-id="paramountmoviechannel.us",Paramount Movie Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
@@ -203,6 +205,8 @@ https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/2018_Rakuten_logo.png" tvg-id="RakutenTVTopMovies.uk",Rakuten TV Top Movies
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TLC_logo.png" tvg-id="TLC.com",TLC
+http://115.146.176.131:80/TimRizal/TimRizal/83.ts
 #EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/a51aa364e25a7eef5ec885c6fcd5cf63.png" tvg-id="WarnerTV.uk",Warner TV
 http://115.146.176.131:80/TimRizal/TimRizal/86.ts
 
