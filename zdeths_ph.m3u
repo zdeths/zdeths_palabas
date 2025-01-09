@@ -17,6 +17,8 @@ https://wag.ika.lat/stream/2084767267
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Cinemologo.png" tvg-id="CineMo.ph",Cine Mo
 https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/ae139f8c21f0470a268c8b7abaec791b.png" tvg-id="Cinemax.ph",Cinemax
+http://115.146.176.131:80/TimRizal/TimRizal/41.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinema_One_logo.png" tvg-id="CinemaOne.ph",Cinema One
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/CINEMAX_logo.png" tvg-id="CinemaOne.ph",Cinemax
