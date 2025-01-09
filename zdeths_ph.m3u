@@ -109,6 +109,8 @@ https://fl2.moveonjoy.com/NICKTOONS/index.m3u8
 http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/NBA-Logo.png" tvg-id="NBA.ph",NBA
 https://tx2.nexgen.bz:443/NBA/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="PinoyExtreme.ph",Pinoy Extreme
+http://115.146.176.131:80/TimRizal/TimRizal/37.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="BabyTV.ph",Baby TV
 https://tx1.nexgen.bz:443/BABYTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="AmericanIdol.ph",American Idol
