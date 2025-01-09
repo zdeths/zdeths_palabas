@@ -83,6 +83,8 @@ http://hardcoremedia.xyz/live/6FyrkGbRP/D4Q4pk3k8u/130056.m3u8
 https://list.iptvcat.com/my_list/s/df2e2ba5f2a831991ee91470a06158ef.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/RPN9-CNN_Philippines_New_logo.png" tvg-id="CNN.ph",CNN Philippines
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Discovery_Channel.png" tvg-id="DiscoveryChannel.ph",Discovery Channel
+http://115.146.176.131:80/TimRizal/TimRizal/27.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Discovery_Channel.png" tvg-id="DiscoveryChannel.ph",Discovery Channel HD
 http://bisdaktv.store/live/discoveryenglish.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/The_Filipino_Channel_%28TFC%29_logo.png" tvg-id="TFC.ph",TFC Channel
