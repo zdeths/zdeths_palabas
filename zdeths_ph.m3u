@@ -47,6 +47,8 @@ https://ythls.armelin.one/channel/UCisr6Z2C8R2QF-Qh6NOH9cg.m3u8
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="OrasngHimala.ph",Oras ng Himala
 https://ythls.armelin.one/channel/UCG_nkfwsIhO1OiRQUGfdLyw.m3u8
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/91ead07b36d35d691c26714fecc1923a.png" tvg-id="PBO.ph",PBO
+http://115.146.176.131:80/TimRizal/TimRizal/32.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/PTV4-LOGO-1995.png" tvg-id="PTV4.ph",PTV4
 https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="RadyoBandidoTV.ph",Radyo Bandido TV
