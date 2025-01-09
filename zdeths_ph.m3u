@@ -29,8 +29,10 @@ https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Espn_2.png" tvg-id="DZRHNewsTV.ph",ESPN 2
 https://fl2.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/GMA_Network_logo.png" tvg-id="GMATV.ph",GMA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/GMA_Network_logo.png" tvg-id="GMATV.ph",GMA TV_Primary
 https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/GMA_Network_logo.png" tvg-id="GMATV.ph",GMA TV_Secondary
+http://115.146.176.131:80/TimRizal/TimRizal/14.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="GreatCommissionTV.ph",Great Commission TV
 http://45.32.115.103/live/livestream/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/GMA_Network_logo.png" tvg-id="GTV.ph",G TV
