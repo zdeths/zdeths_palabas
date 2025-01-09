@@ -1,10 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Abs_cbn.png",ABS-CBN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Abs_cbn.png" tvg-id="AbsCbn.com",ABS-CBN
 http://115.146.176.131:80/TimRizal/TimRizal/16.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Aljazeera_mubasher.png",ALJAZEERA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Aljazeera_mubasher.png" tvg-id="Aljazeera.com",ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/5a4c8aa22146a7691717bd77782d5a36.jpg" tvg-id="Animax.com",Animax
+http://115.146.176.131:80/TimRizal/TimRizal/59.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" tvg-id="Arirang.com",Arirang
 https://list.iptvcat.com/my_list/s/f5a56911fcc6bee4413e93d94472ea84.m3u8
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/7322e4e74e109cf689b50f143663abaa.jpg" tvg-id="AXN.com",AXN
+http://115.146.176.131:80/TimRizal/TimRizal/49.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="963EasyRock.ph",96.3 Easy Rock
 https://ythls.armelin.one/channel/UCZTlGPEnQ66TFG0m6Wa3KFQ.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" tvg-id="A2Z.ph",A2Z
@@ -43,8 +47,12 @@ http://45.32.115.103/live/livestream/index.m3u8
 https://wag.ika.lat/stream/872206966
 #EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/6c374acf0ca2b976bbaa32f5483449bd.png" tvg-id="HitsMovies.ph",HITS Movies
 http://115.146.176.131:80/TimRizal/TimRizal/36.ts
+#EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/ba522f5b7c3d592de454b1afad3f718a.png" tvg-id="IBC13.ph",IBC 13
+http://115.146.176.131:80/TimRizal/TimRizal/47.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/INC_TV_New_Logo.png" tvg-id="INCTV.ph",INC TV
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="jeepney.ph",JEEPNEY TV
+http://115.146.176.131:80/TimRizal/TimRizal/64.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="LifeTVAsia.ph",Life TV Asia
 https://ythls.armelin.one/channel/UCisr6Z2C8R2QF-Qh6NOH9cg.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/MyxPH.png" tvg-id="MyxPhilippines.ph",Myx Philippines
