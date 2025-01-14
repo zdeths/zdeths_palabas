@@ -1,13 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iSVnzR1.png" tvg-id="24HourFreeMovies.us",24 Hour Free Movies
-https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Abs_cbn.png" tvg-id="AbsCbn.com",ABS-CBN
 http://115.146.176.131:80/TimRizal/TimRizal/16.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Aljazeera_mubasher.png" tvg-id="Aljazeera.com",ALJAZEERA
 http://115.146.176.131:80/TimRizal/TimRizal/4.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="AmericanIdol.ph",American Idol
 https://d2h3esqi6ab3e7.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CLTV_logo.png" tvg-id="ANCHD.ph",ANC HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ABS-CBN_News_Channel_%282015%29.svg/1920px-ABS-CBN_News_Channel_%282015%29.svg.png" tvg-id="ANC.ph",ANC
+http://115.146.176.131:80/TimRizal/TimRizal/34.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ABS-CBN_News_Channel_%282015%29.svg/1920px-ABS-CBN_News_Channel_%282015%29.svg.png" tvg-id="ANCHD.ph",ANC HD
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" tvg-id="Animax.com",Animax
 http://115.146.176.131:80/TimRizal/TimRizal/59.ts
@@ -19,8 +20,6 @@ http://115.146.176.131:80/TimRizal/TimRizal/49.ts
 http://115.146.176.131:80/TimRizal/TimRizal/55.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" tvg-id="A2Z.ph",A2Z
 http://115.146.176.131:80/TimRizal/TimRizal/68.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ABS-CBN_News_Channel_%282015%29.svg/1920px-ABS-CBN_News_Channel_%282015%29.svg.png" tvg-id="ANC.ph",ANC
-http://115.146.176.131:80/TimRizal/TimRizal/34.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Bloomberg_logo.png" tvg-id="Boomerang.ph",Bloomberg
 http://115.146.176.131:80/TimRizal/TimRizal/45.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/OnAir_Logo_Boomerang_HD_2015.png" tvg-id="Boomerang.ph",Boomerang HD
