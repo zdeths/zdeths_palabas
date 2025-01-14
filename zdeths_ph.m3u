@@ -29,6 +29,8 @@ http://115.146.176.131:80/TimRizal/TimRizal/46.ts
 https://list.iptvcat.com/my_list/s/0c998bb6328642eec581b1b40f746e3f.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Cartoon_Network_1992-2004.png" tvg-id="CartoonNetwork.ph",Cartoon Network
 http://115.146.176.131:80/TimRizal/TimRizal/54.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="CNA.ph",CNA
+http://115.146.176.131:80/TimRizal/TimRizal/5.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/CNBC_TV18_logo.png" tvg-id="CNBC.com",CNBC
 https://list.iptvcat.com/my_list/s/0369fbfc6944223a0d725444fdbab561.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="CCTN47.ph",CCTN47
@@ -59,6 +61,8 @@ http://hardcoremedia.xyz/live/6FyrkGbRP/D4Q4pk3k8u/137679.m3u8
 https://ythls.armelin.one/channel/UCs_VNu-FQ0WcJnD4QkmIL5w.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" tvg-id="DisneyChannel.ph",Disney Channel US HD
 http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/SKY_DISCOVERY_SCIENCE_SD.png" tvg-id="Discoveryscience.ph",Doscovery Science
+http://115.146.176.131:80/TimRizal/TimRizal/40.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Disney_XD_HD_2019.png" tvg-id="DisneyXD.ph",Disney XD
 https://fl2.moveonjoy.com/DISNEY_XD/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="DreamstarTV.ph",Dreamstar TV
@@ -89,6 +93,8 @@ https%3a//fl2.moveonjoy.com/HBO_2/index.m3u8
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Xtreme.png" tvg-id="HBOxtreme.COM",HBO EXTREME
 http://181.204.79.182:8202/play/a02w
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/EWTN_Polska.png" tvg-id="ewtn.COM",EWTN
+http://115.146.176.131:80/TimRizal/TimRizal/20.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" tvg-id="HBO2.sg",HBO Family
 http://115.146.176.131:80/TimRizal/TimRizal/85.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Pop_hbo.png" tvg-id="HBOPop.au",HBO POP
@@ -107,6 +113,8 @@ http://115.146.176.131:80/TimRizal/TimRizal/47.ts
 http://115.146.176.131:80/TimRizal/TimRizal/6.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Jeepney_TV_logo.png" tvg-id="jeepney.ph",JEEPNEY TV
 http://115.146.176.131:80/TimRizal/TimRizal/64.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Jeepney_TV_logo.png" tvg-id="kchannel.ph",K Channel
+http://115.146.176.131:80/TimRizal/TimRizal/11.ts
 #EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/a9ff7a33ed0f05356304efb5fee20731.png" tvg-id="kapamilya.ph",KAPAMILYA
 http://115.146.176.131:80/TimRizal/TimRizal/89.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="karaoke.ph",Karaoke
@@ -137,6 +145,8 @@ https://ln.run/nicktoons
 https://fl2.moveonjoy.com/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="OnePH.com",One PH
 http://115.146.176.131:80/TimRizal/TimRizal/81.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="Onesports.com",ONE SPORTS
+http://115.146.176.131:80/TimRizal/TimRizal/23.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="OrasngHimala.ph",Oras ng Himala
 https://ythls.armelin.one/channel/UCG_nkfwsIhO1OiRQUGfdLyw.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" tvg-id="ParamountNetworkEast.us",Paramount Network
@@ -151,6 +161,8 @@ http://115.146.176.131:80/TimRizal/TimRizal/69.ts
 http://115.146.176.131:80/TimRizal/TimRizal/32.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="PinoyExtreme.ph",Pinoy Extreme
 http://115.146.176.131:80/TimRizal/TimRizal/37.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="premiere.ph",PREMIER SPORTS
+http://115.146.176.131:80/TimRizal/TimRizal/57.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tDapGal.png" tvg-id="PlutoTVAction.us",Pluto TV Action
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac632-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9bd2e9c0-393b-484b-b5bc-b1869a276513
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9j1njE3.png" tvg-id="PlutoTVCrimeDrama.us",Pluto TV Crime Drama
@@ -173,16 +185,24 @@ https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" tvg-id="ParamountNetworkEast.us",Star Channel US
 https://streamer1.nexgen.bz/STAR/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="RJTV.ph",RJ TV
+http://115.146.176.131:80/TimRizal/TimRizal/44.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Solar_Sports.png" tvg-id="solarsports.ph",Solar Sports
+http://115.146.176.131:80/TimRizal/TimRizal/80.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/SMNI_News_Channel.webp" tvg-id="SMNI.ph",SMNI
 http://115.146.176.131:80/TimRizal/TimRizal/19.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/SMNI_News_Channel.webp" tvg-id="SMNINewsChannel.ph",SMNI News Channel
 https://ythls.armelin.one/channel/UCNaQMcnWvx95j7OG3217IMg.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TapTV-ph.png" tvg-id="tap.ph",TAP TV
+http://115.146.176.131:80/TimRizal/TimRizal/26.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="TeleRadyo.ph",TeleRadyo
 http://115.146.176.131:80/TimRizal/TimRizal/25.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TLC_logo.png" tvg-id="TLC.com",TLC
 http://115.146.176.131:80/TimRizal/TimRizal/83.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/The_Filipino_Channel_%28TFC%29_logo.png" tvg-id="TFC.ph",TFC Channel
 https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="thrill.ph",Thrill
+http://115.146.176.131:80/TimRizal/TimRizal/13.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TV5_HD_Logo.png" tvg-id="TV5.ph",TV5
 http://115.146.176.131:80/TimRizal/TimRizal/90.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="TVMaria.ph",TV Maria
