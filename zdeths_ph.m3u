@@ -30,7 +30,7 @@ http://115.146.176.131:80/TimRizal/TimRizal/54.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="CNA.ph",CNA
 http://115.146.176.131:80/TimRizal/TimRizal/5.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/CNBC_TV18_logo.png" tvg-id="CNBC.com",CNBC
-https://list.iptvcat.com/my_list/s/0369fbfc6944223a0d725444fdbab561.m3u8
+http://fl2.moveonjoy.com/CNBC/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="CCTN47.ph",CCTN47
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Cinemologo.png" tvg-id="CineMo.ph",Cine Mo
