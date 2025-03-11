@@ -1,8 +1,7 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1280x720 720p.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Abs_cbn.png" tvg-id="AbsCbn.com",ABS-CBN
 http://115.146.176.131:80/TimRizal/TimRizal/16.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Aljazeera_mubasher.png" tvg-id="Aljazeera.com",ALJAZEERA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Aljazeera_mubasher.png" tvg-id="Aljazeera.com",ALJAZEERA 
 http://115.146.176.131:80/TimRizal/TimRizal/4.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="AmericanIdol.ph",American Idol
 https://d2h3esqi6ab3e7.cloudfront.net/index.m3u8
@@ -68,7 +67,7 @@ http://115.146.176.131:80/TimRizal/TimRizal/7.ts
 http://115.146.176.131:80/TimRizal/TimRizal/14.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="GreatCommissionTV.ph",Great Commission TV
 http://45.32.115.103/live/livestream/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Hbo-tp.png" tvg-id="HBOAsiaHD.sg",HBO HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Hbo-tp.png" tvg-id="HBOAsiaHD.sg",HBO HD,RESOLUTION=1920x1080
 http://115.146.176.131:80/TimRizal/TimRizal/21.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" tvg-id="HBO2.sg",HBO - East Coast -1
 https://s.vdo.ai/vhs/1.m3u8?checkedby:iptvcat.com
