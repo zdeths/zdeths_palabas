@@ -67,7 +67,7 @@ http://115.146.176.131:80/TimRizal/TimRizal/7.ts
 http://115.146.176.131:80/TimRizal/TimRizal/14.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/2023_Android_Bot.png" tvg-id="GreatCommissionTV.ph",Great Commission TV
 http://45.32.115.103/live/livestream/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Hbo-tp.png" tvg-id="HBOAsiaHD.sg",HBO HD, RESOLUTION=1920x1080, CODECS="avc1.42c01e,mp4a.40.2"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Hbo-tp.png" tvg-id="HBOAsiaHD.sg",  RESOLUTION=1920x1080, CODECS="avc1.42c01e,mp4a.40.2", HBO HD
 http://115.146.176.131:80/TimRizal/TimRizal/21.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" tvg-id="HBO2.sg",HBO - East Coast -1
 https://s.vdo.ai/vhs/1.m3u8?checkedby:iptvcat.com
